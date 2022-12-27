@@ -1,3 +1,30 @@
+## Project: Valentine's Date Reminder
+
+
+## Animation of the App
+
+![image](./valentines-dates.gif)
+
+## Visulation of the App
+
+![image](./valentines-dates.png)
+
+## Description
+```bash
+- User can list valentine's dates such as Rose Day, Teddy Day, Promise Day etc.
+- When user click "Clear All" button, all dates are removed.
+```
+
+## Overview
+I mastered HTML, CSS, Javascript and React features in this project. You can see the visual representation of the app above.
+
+## Technologies 💻
+```bash
+- React(useState,setters/getters functions)
+- Dates retrieved from [https://www.hindustantimes.com/lifestyle/festivals/valentines-week-full-list-2022-rose-day-to-kiss-day-significance-and-all-you-need-to-know-about-the-days-of-love-101644112097341.html]
+```
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
