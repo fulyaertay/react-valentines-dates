@@ -12,7 +12,7 @@
 ## Description
 ```bash
 - User can list valentine's dates such as Rose Day, Teddy Day, Promise Day etc.
-- When user click "Clear All" button, all dates are removed.
+- When user clicks "Clear All" button, all dates are removed.
 ```
 
 ## Overview
