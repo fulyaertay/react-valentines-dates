@@ -16,7 +16,7 @@
 ```
 
 ## Overview
-I mastered HTML, CSS, Javascript and React features in this project. You can see the visual representation of the app above.
+I mastered HTML, CSS(8 Point Full Control Border Radius), Javascript and React features in this project. You can see the visual representation of the app above.
 
 ## Technologies 💻
 ```bash
