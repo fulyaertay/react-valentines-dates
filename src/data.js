@@ -38,7 +38,5 @@ export default[
     "title":" Valentine's Day",
     "image":'https://d1csarkz8obe9u.cloudfront.net/posterpreviews/feb-14-valentine%27s-day.-happy-valentine%27s-day-design-template-e02e5705e6fe21b2721264ca2a09a93b_screen.jpg?ts=1641311041',
     "date":"February 14"
-    },
-
-
+    }
 ]

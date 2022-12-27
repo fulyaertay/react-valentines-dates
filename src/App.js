@@ -4,9 +4,16 @@ import data from './data';
 
 function App() {
   return (
-    <div className="App">
-     
-    </div>
+    <main>
+    <section className='container'>
+      <h3>
+      Valentine's Week Full List
+      </h3>
+      <button>
+        Clear All
+      </button>
+    </section>
+   </main>
   );
 }
 
