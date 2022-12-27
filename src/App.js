@@ -8,7 +8,7 @@ function App() {
     <main>
     <section className='container'>
       <h3>
-        Valentine's Week Full List 
+        Valentine's Week
       </h3>
       {dates.map((date)=>{
         return(
@@ -22,7 +22,7 @@ function App() {
         )
       })}
      
-      <button>
+      <button onClick={()=>{setDates([])}}>
         Clear All
       </button>
     </section>

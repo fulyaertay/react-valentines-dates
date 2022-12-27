@@ -26,7 +26,7 @@ export default[
     },
     {"id":6,
     "title":" Hug Day",
-    "image":'https://images.hindustantimes.com/img/2022/02/09/1600x900/Hug_Day_960_1644405840445_1644405851362.jpg',
+    "image":'https://c.ndtvimg.com/2022-02/jf7p48so_happy-hug-day-hug-day-images_625x300_11_February_22.jpg',
     "date":"February 12"
     },
     {"id":7,
